@@ -1,0 +1,39 @@
+_repo: Lancashire-SketchesThird-Edition_46090
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46090-h/images/front-cover.jpg
+creator:
+  author:
+    agent_name: Waugh, Edwin
+    birthdate: 1817
+    deathdate: 1890
+    gutenberg_agent_id: '3317'
+    url: http://www.gutenberg.org/2009/agents/3317
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Waugh
+description: ''
+gutenberg_issued: '2014-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lancashire (England) -- Description and travel'
+- !lcc 'DA'
+- !lcc 'PR'
+- !lcsh 'Lancashire (England) -- Social life and customs'
+tableOfContents: 'Chapel Island; or, an adventure on the Ulverstone sands -- Ramble
+  from Bury to Rochdale -- The cottage of Tim Bobbin, and the village of Milnrow --
+  The birthplace of Tim Bobbin -- Ramble from Rochdale to the top of Blackstone Edge
+  -- The town of Heywood and its neighbourhood -- The grave of Grislehurst Boggart
+  -- Boggart Ho'' Clough -- Rostherne Mere -- Oliver Fernleaf''s watch -- Norbreck:
+  a sketch on the Lancashire coast -- Wandering minstrels; or, wails of the workless
+  poor -- A wayside incident, during the cotton famine -- Saint Catherine''s Chapel;
+  or, the pretty island bay -- The knocker-up -- The complaint of a sad complaint.'
+title: 'Lancashire Sketches
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/46090
